@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DisplaySqliteDataActivity" />
+        <activity android:name=".EditSingleRecordActivity" />
+        <activity android:name=".ShowSingleRecordActivity"></activity>
     </application>
 
 </manifest>
